@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass (or vvarning-peece) for all such as prophane churches, and neglect prayer against the lawes of God, exprest in his Holy Word, the sacred Scriptures. In the reading hereof, I pray observe the A, B, C, &amp;c. first look on your left hand for A.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88538</idno>
+            <idno type="STC">Wing L3038</idno>
+            <idno type="STC">Thomason 669.f.16[67]</idno>
+            <idno type="STC">ESTC R211540</idno>
+            <idno type="EEBO-CITATION">99870257</idno>
+            <idno type="PROQUEST">99870257</idno>
+            <idno type="VID">163220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163220)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[67])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass (or vvarning-peece) for all such as prophane churches, and neglect prayer against the lawes of God, exprest in his Holy Word, the sacred Scriptures. In the reading hereof, I pray observe the A, B, C, &amp;c. first look on your left hand for A.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Burton at the signe of the Horseshooe in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Septemb. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church buildings --  Vandalism --  Early works to 1800.</term>
+               <term>Prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163220:1" rendition="simple:additions"/>
+            <head>A Looking-Glaſs (or VVarning-Peece) for all ſuch as Prophane Churches, and neglect Prayer, againſt the Lawes of GOD, expreſt in his Holy Word, The Sacred SCRIPTURES.</head>
+            <p>
+               <figure>
+                  <head>
+                     <hi>In the reading hereof, I. pray obſerve the</hi> A, B, C, &amp;c. <hi>firſt look on your left hand for</hi> A.</head>
+                  <p>A. <hi>Holy Scriptures againſt the heinous ſins of theſe Times, in Profaning Godsholy Houſe the Church.</hi>
+                  </p>
+                  <p>Remember God ſaith, Ye ſhall keep my Sabbaths, and reverence my San<g ref="char:EOLhyphen"/>ctuary: I am the Lord, <hi>Lev.</hi> 19. 30. Chap. 26. 2. And the Lord ſaid (unto wiſe <hi>Solomon)</hi> I have heard thy prayer and thy ſupplication that thou haſt made before me: I have hallow<g ref="char:EOLhyphen"/>ed this Houſe which thou haſt built, to put my Name there for ever, and mine Eyes and mine Heart ſhall be there perpetually, 1 <hi>Kings</hi> 9. 3. Cha. 8. 29.</p>
+                  <p>
+                     <hi>Mark here Gods Puniſhments for the ſins of the Prieſts and People.</hi>
+                  </p>
+                  <p>The Chief of the Prieſts, and the People tranſgreſſed very much, afte<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all the Abominations of the Heathen and polluted the Houſe of the Lord which He had hallowed in <hi>Jeruſalem.</hi> Therfore he brought upon them the King of the <hi>Caldees,</hi> who ſlew their young Men with the Sword, in the Houſe of their Sanctuary, and had no Compaſſion upon young Man or Mayden, old Man, or him that ſtoops for Age: He gave them all into his hand, 2 <hi>Chron.</hi> 36. 14, &amp; 17 ver. (Look up to the Top of the Steeple for B.)</p>
+                  <p>B. <hi>Holy Ground,</hi>
+                  </p>
+                  <p>Put off thy ſhooes (ſaith God) from off thy Feet, for the Place whereon thou ſtandeſt is Holy Ground: Ex. 3. 5. Act 7. 33, Sec 1 Cor. 11. 4. (Take heedto thy Foot) or, Keep thy foot when thou en<g ref="char:EOLhyphen"/>treſt into the houſe of God, Ecl. 5. 1. ſee 1 Tim. 3. 15: look on your right hand for C</p>
+                  <p>C. <hi>Gods Houſe.</hi>
+                  </p>
+                  <p>How dreadfull is this Place, this is none o<g ref="char:EOLhyphen"/>ther but the Houſe of God, &amp;c. <hi>Gen.</hi> 28. 17. Ye look for Much, and loe it came to Little: and when ye brought it home, I did blow upon it: Why, ſaith the Lord of Hoſts? Becauſe of mine Houſe that is waſt, and ye Runne every Man unto his own houſe. <hi>Hag.</hi> 1. 9. Look again up to your right hand for D.</p>
+                  <p>D. (Mark here, I beſeech you, mark) Jeſus went into the Temple of God, and caſt out all them that Sold and Bought in the Temple, and overthrew the Tables of the Money-Changers, and the ſeats of them that ſold Doves, And ſaid unto them, It is written, My Houſe ſhall be called a Houſe of Prayer, but ye have made it a Den of Theeves. <hi>Mat.</hi> 21. 12, 13. <hi>Mar.</hi> 11. 15, 16, 17. <hi>Luke</hi> 19 45, 46.</p>
+                  <p>(Now mark) here Chriſt did not pull down the Temples, or Churches, for the ſinnes of the Prieſts and Peo<g ref="char:EOLhyphen"/>ple. But, then he made a ſcourge of ſmall Cords, and drave them all out of the Temple, with the Sheep and Oxen, and poured out the Chan<g ref="char:EOLhyphen"/>gers money, and overthrew the Tables, And ſaid unto them that ſold Doves, Take theſe things hence: Make not my Fathers Houſe an Houſe of Merchandiſe, And his Diſ<g ref="char:EOLhyphen"/>ciples remembred that it was written, The Zeal of thine Houſ<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hath eaten me up, <hi>Joh.</hi> 2. 15, 16, 17. See for E.</p>
+                  <p>E <hi>And</hi> Jacob <hi>awaked out of his ſleep, and he ſaid, ſurely the Lord is in this place, and I knew it not, and he was afraid,</hi> G<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. 28. 16.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="letter">
+            <p>
+               <seg rend="decorInit">D</seg>Ear Brother, the Pſalmiſt ſaith, <hi>Holineſs becometh thine houſe, O Lord, for ever, Pſal.</hi> 93. 5. And the Almighty God ſaith, <hi>Ye ſhall keep my Sabbaths, and reverence my Sanctuary, I am the Lord, Levit.</hi> 19. 30. Anſwerable to which his Saints and Servants have ever carried themſelves, eſteeming the place of Gods worſhip holier then other places. So <hi>Iacob</hi> did before the Law, <hi>Gen.</hi> 28. 16, 17. and ſaid, <hi>How fearfull is this place, this is no other but the Houſe of God:</hi> And for the people of God under the Law, they did ſo reſpect the place of Gods worſhip that <hi>David</hi> ſaid, <hi>Pſal.</hi> 26. 8. <hi>Lord I have loved the habitation of thy Houſe, &amp; thy place where thine Honor dwelleth:</hi> And moreover ſaid, as one that had been raviſhed therewith, <hi>How amiable are thy Tabernacles, thou Lord of hoſts,</hi> Pſal. 84. And in his abſence, ſaid, <hi>My ſoul longeth, yea, and ſainteth for the Courts of the Lord:</hi> And eſteems even the Swallows and the Spar<g ref="char:EOLhyphen"/>rows happy that might make their neſts neer it, <hi>verſ.</hi> 3. And in the time of the Goſpel, while our Lord was on earth, he ſhewed more wrath and jealouſie againſt ſuch as profaned the place of Gods worſhip, then he did about any other thing; for he made a whip, and drove the cattel that were for ſacrifice out of the Court-yard, overturned the Tables that they told money on, and ſaid, <hi>Make not my Fathers houſe a houſe of merchandiſe:</hi> And he would not ſuffer that any ſhould carry any veſ<g ref="char:EOLhyphen"/>ſel thorow the Temple, <hi>Ioh.</hi> 2. 14, 15, 16. <hi>Mar.</hi> 11. 16. And after our Lord was aſcended, before Churches were built, having on<g ref="char:EOLhyphen"/>ly ſome <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooms dedicated to that uſe, S. <hi>Paul</hi> ſharply reproveth the profaners thereof. <hi>What</hi> (ſaith he) <hi>have ye not houſes to eat and drink in, but deſpiſe ye the Church of God?</hi> 1 <hi>Cor.</hi> 11. 22. This being ſo, it ſheweth plainly, that thoſe which put no diffe<g ref="char:EOLhyphen"/>rence between a Church and a dwelling houſe, are not of God; for his people neither before the Law, or under the Law, in the dayes that Chriſt was upon the earth, nor after his aſcenſion, never did ſo: and whoſe example ſuch do follow, I know not, except it be King <hi>Belſhazar, Dan.</hi> 5. that made the veſſels of the Temple common drinking bouls, he is the father of ſuch wretches, and let them expect to inherit his ſhame, either here or hereafter. But ſome will ſay, How can there be difference in dayes, in places, in veſſels, in perſons, in veſtments, &amp;c. <hi>For the light of every day is of the Sun, and he hath made of one blood all Nations, Act.</hi> 17. 26. The ſon of <hi>Sirach</hi> gives anſwer, <hi>Ecclus.</hi> 33. <hi>By the knowledge of the Lord they were diſtinguiſhed:</hi> Some he hath made high dayes, and hallowed them, and ſome of them he hath made ordinary dayes; though all men be from the ſame earth, yet in much knowledge hath he divided them; ſome of them hath he bleſſed, and exalted, and made Kings, and ſome of them hath he ſanctified, and ſet neer himſelf, made Prieſts; of whom he ſaith in another place, <hi>Touch not mine A<g ref="char:EOLhyphen"/>nointed, nor do my Prophets no harm.</hi> And therefore I will conclude and ſay, he that regards not theſe diſtinctions, is a moſt profane wretch to his God, and in his mind little better than a enemy to the Commonwealth.</p>
+            <p>
+               <hi>Now</hi> Peter <hi>and</hi> John <hi>went up together into the Temple, at the hour of Prayer, being the ninth hour,</hi> Act, 3. 1.</p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>ONe thing I prayed you to conſider, that if we muſt have no ſet-form of Prayer, no ſolemn worſhip of God, no evening and morning ſacrifice, but that which every man in his fancie, extemporarily powreth forth, in what condition then will this Engliſh Church be in, and if it once be ſo, whether it may not then be truly ſaid, <hi>The glory thereof is departed:</hi> for the ſtream will be as the fountain, what is in the heart will out at the mouth, and then may we truly ſay, Good Lord what ſtuff ſhall we have: One man though zealous, yet but ſilly, ye ſhall have from him a great deal of nonſenſe and vain repetitions, O Lord, O God, O, Oh: and another, he affects words &amp; oſtentations, by which he ofttimes appears to his auditor like one preaching or acting a part upon a ſtage; another, his memory being not good, eſpecially beng out of his me<g ref="char:EOLhyphen"/>thod, he hackers and hammers, but brings forth nothing readily: another, being given to ſtzife and contention, lets fall paſſa<g ref="char:EOLhyphen"/>ges tending to anger and wrath, exclaiming againſt ſuch, as he ſuppoſeth, hath done him wrong: another, being affected with ſuperſtitious cuſtoms, his affections and words in prayers will be byaſed thereafter: another, being a Schiſmatick, prayes againſt the Cuſtoms of that Church whereof himſelf is a member, and he cries out for reformation, and removing of ſuch things, as in his profound judgement ſhould not be, he alſo prayes for vengeance upon ſuch as are the hinderers of his ſuppo<g ref="char:EOLhyphen"/>ſed reformation: another, being an heretick, his ſacrifice tends to hereſie &amp; blaſphemie: another, being ſeditious, as his mind runs upon ſtate buſineſſe, ſo anſwerable thereto, his prayer is interlaced, ſometimes with matter no better than treaſon it ſelf: in this wofull condition ſhould we be in, if for our ſins God ſhould cauſe our daily ſacrifice to ceaſe, and ſuffer the idle fancies of mens brains to be offered in ſtead thereof. From the which good Lord deliver us.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Richard Burton</hi> at the ſigne of the Horſeſhooe in Smithfield, 1652.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
